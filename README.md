@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 # Explain what software engineering is and discuss its importance in the technology industry.
-Software enineering is a systematic application of engineering principles to the development, mproduction and maintancance of software products that are of high and renowned as well as acceptable high quality. Software engineering is critical in the evolution of the world and always has had yhe ability to usher in a new world order where manual tasks are done efficiently, effectively in short period of time.
+Software enineering is a systematic application of engineering principles in designing, developing, testing and and maintanining of software products that are of high and renowned as well as acceptable high quality. Software engineering is critical in the evolution of the world and always has had yhe ability to usher in a new world order where manual tasks are done efficiently, effectively in short period of time.
 
 
 # Identify and describe at least three key milestones in the evolution of software engineering.
