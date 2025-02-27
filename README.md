@@ -9,7 +9,12 @@ Software enineering is a systematic application of engineering principles in des
 
 
 # Identify and describe at least three key milestones in the evolution of software engineering.
+  Milestone 1
+  In 1940s the development of frist digital computer and the intoduction of the term Software engiineering
 
+  Milestone 2
+  1960s development of first object oriented programming langues eg Fortran and C
+  1960s The establishment of Software engineering as a stand alone  and well recognized discipline
 
 # List and briefly explain the phases of the Software Development Life Cycle.
 
