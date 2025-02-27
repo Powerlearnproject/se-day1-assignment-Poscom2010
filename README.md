@@ -17,7 +17,31 @@ Software enineering is a systematic application of engineering principles in des
   1960s The establishment of Software engineering as a stand alone  and well recognized discipline
 
 # List and briefly explain the phases of the Software Development Life Cycle.
-
+Software developement stages are not cast in stone. Different users companies intergrate or skip some steps. Howver, in general,  software development Cycle has 6 stages which are as below:
+ ### Stage 1
+ Requirements
+ During this stage, software developer gathers customer needs and illicit for customer requirements or business task at hand.This also involves identifying the problem which needs to be solved and documenting all required resource and  system requirements.
+ 
+### Stage 2
+ Design
+ This the stage where the idea is put into a blueprint. Creating a highlevel, detailed design f the product or software architecture, user interface and also bearing in mind the aspect of user experience.
+ 
+### Stage 3
+ Development/ implementation
+ At this stage, the designed blueprint or software archtecture is now used to guide the real work. Its the stage where the real job is done and coding starts.
+ 
+### Stage 4
+ Testing
+ After completing the code and developing the software, the fourth stage is testing and troubleshooting the software. This is a test drive to gauge if the software live up to the expectations, business rules and delivers what it was expected to deliver. Also during this stage, testers troubleshoot for failures, bugs  which would lead to optimization.
+ 
+### Stage 5
+ Deployement
+ After the software has undergone meticulous testing, observation and inspection, once it passed, the it is ready for deployment. That is it is the released into the market or handed over to the customer to start solving the problem it was designed for.
+ 
+### Stage 6
+ Maintanance
+ The final stage is introducing updates, and continuously ensure the software runs smoothly and lives at par with new technologies and updated and new enhancements introduces also based on new customer needs or requestes
+ 
 
 # Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
